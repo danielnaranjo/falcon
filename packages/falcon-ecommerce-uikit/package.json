@@ -42,7 +42,7 @@
     "@types/react-dom": "16.0.8",
     "@types/react-i18next": "7.8.2",
     "@types/react-router-dom": "4.3.1",
-    "babel-plugin-annotate-pure-calls": "0.3.0",
+    "babel-plugin-annotate-pure-calls": "0.4.0",
     "babel-plugin-module-resolver": "3.1.1",
     "graphql-tag": "2.10.0",
     "prop-types": "15.6.2",
